@@ -39,7 +39,6 @@ src/
 - Node v21.1.0
 - Npm  v10.2.0
 - React v18.2.0
-- ChakraUI v2.8.2
 
 ## References
 - [UI Design](https://laravel-news.com)

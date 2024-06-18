@@ -1,22 +1,22 @@
 # Atoms
 
-Heading []
-Subheading []
-Title []
-Subtitle []
-Caption []
-Logo []
+Heading [DONE]
+Subheading [DONE]
+Title [DONE]
+Subtitle [DONE]
+Caption [DONE]
+Logo [DONE]
 Input []
-Button []
 Image []
 Container []
-Label []
 Link []
-IconLink []
 
 # Molecule
 NewsletterForm []
 Headline []
+IconLink []
+Pills []
+Button []
 
 # Organisms
 Header []
